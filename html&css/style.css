@@ -22,4 +22,9 @@
     border: 1px solid #000;
 }
 /* border는 라인. 색은 검은색, >tr>td경로로 td전부에 적용 */
-/* font-weight = 굵기 */
+/* font-weight = 굵기, background = 뒷 배경색 */
+
+#p1{
+    background: yellowgreen;
+    color: darkgreen;
+}
